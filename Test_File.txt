@@ -6,3 +6,4 @@ Third Line
 Echo Add Line GitBush
 Fifth Line
 warning
+line for git gui
